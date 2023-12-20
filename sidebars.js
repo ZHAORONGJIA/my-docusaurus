@@ -21,7 +21,8 @@ export default {
   tutorialSidebar: [
     'intro',
     'hello',
-    {
+    'my-doc.md',
+   {
       type: 'category',
       label: 'Tutorial',
       items: ['tutorial-basics/create-a-document'],
