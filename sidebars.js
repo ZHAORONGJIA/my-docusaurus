@@ -21,6 +21,7 @@ export default {
   tutorialSidebar: [
     'intro',
     'hello',
+   'text',
    //'/my-custom-url',
    {
       type: 'category',
