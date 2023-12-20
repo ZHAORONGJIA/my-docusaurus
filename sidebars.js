@@ -21,7 +21,7 @@ export default {
   tutorialSidebar: [
     'intro',
     'hello',
-   'my-doc',
+   //'my-doc',
    {
       type: 'category',
       label: 'Tutorial',
